@@ -49,7 +49,7 @@ rm -fr .git
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimmyBinoculars&theme=transparent" /> 
    </a> 
    <a href="https://github.com/JimmyBinoculars"> 
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyBinoculars&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /> 
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyBinoculars)](https://github.com/anuraghazra/github-readme-stats)
    </a> 
  </p> 
  </details>
