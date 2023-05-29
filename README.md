@@ -1,8 +1,7 @@
 # JimmyBinoculars
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=JimmyBinoculars&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-## Hack the box
-[![HTB](https://raw.githubusercontent.com/Mini-Ware/Mini-Ware/main/static/htb.jpg)](https://app.hackthebox.com/profile/1508972)
+
 ## Languages
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,cpp,cs,git,md,py,react,unity)](https://skills.thijs.gg)
 
@@ -11,7 +10,6 @@
 ```sh
 rm -fr .git
 ```
-
 
 ## Stats
  <p align="center"> 
@@ -28,6 +26,9 @@ rm -fr .git
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyBinoculars" />
    </a> 
  </p> 
+
+## Hack the box
+[![HTB](https://raw.githubusercontent.com/Mini-Ware/Mini-Ware/main/static/htb.jpg)](https://app.hackthebox.com/profile/1508972)
 
 With thanks to both Mini-Ware and wervlad for parts
 <!--Thanks Mini-Ware!-->
