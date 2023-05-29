@@ -37,7 +37,7 @@ rm -fr .git
 ⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠹⣿⣧⣀⠀⠀⠀⠀⡀⣴⠁⢘⡙
 
 ⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⠗⠂⠄⠀⣴⡟⠀⠀⡃
-
+## Stats
  <p align="center"> 
    <a href="https://github.com/JimmyBinoculars"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JimmyBinoculars&theme=transparent" /> 
