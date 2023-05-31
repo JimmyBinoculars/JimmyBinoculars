@@ -34,5 +34,5 @@ rm -fr .git
 ## Hack the box
 [![HTB](https://raw.githubusercontent.com/Mini-Ware/Mini-Ware/main/static/htb.jpg)](https://app.hackthebox.com/profile/1508972)
 
-With thanks to both Mini-Ware and wervlad for parts
+With thanks to both Mini-Ware, wervlad and JackTBB for parts
 <!--Thanks Mini-Ware!-->
