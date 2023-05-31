@@ -23,7 +23,7 @@ rm -fr .git
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimmyBinoculars&theme=transparent" /> 
    </a> 
    <a href="https://github.com/JimmyBinoculars"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyBinoculars" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyBinoculars&theme=transparent" />
    </a> 
  </p> 
 
