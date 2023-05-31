@@ -2,7 +2,7 @@
 
 ## Info
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=001FD4&multiline=true&width=435&height=90&lines=Hi%2C+I+am+JimmyBinoculars!;Someone+who+occasionally+writes+good;+code.)](https://git.io/typing-svg)
-
+<p align="center"><img src="https://lanyard.cnrad.dev/api/720703739773845576" href="https://discord.com/users/720703739773845576"></p>
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=JimmyBinoculars&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
