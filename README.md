@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JimmyBinoculars&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,cpp,cs,git,md,py,react,unity,nodejs,nextjs,asm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,php,css,js,jquery,cpp,cs,git,md,py,react,unity,nodejs,nextjs,asm)](https://skills.thijs.gg)
 
 ## Quote
 ### If in doubt:
