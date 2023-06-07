@@ -10,7 +10,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=html,php,css,js,jquery,cpp,cs,git,md,py,react,unity,nodejs,nextjs,asm)](https://skills.thijs.gg)
 
 ## Buy Me A Coffee
-[![Buy Me A Coffee](https://github.com/JimmyBinoculars/JimmyBinoculars/blob/b2365d62541974b4dede9eb2a6ca210c8ceed778/image-removebg-preview%20(2).png)](https://www.buymeacoffee.com/JimmyBinocuars)
+<a href="https://www.buymeacoffee.com/JimmyBinocuars"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=JimmyBinocuars&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ## Quote
 ### If in doubt:
