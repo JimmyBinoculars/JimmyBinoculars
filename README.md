@@ -33,9 +33,6 @@ rm -fr .git
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyBinoculars&theme=transparent" />
    </a> 
  </p> 
-
-## Hack the box
-[![HTB](https://raw.githubusercontent.com/Mini-Ware/Mini-Ware/main/static/htb.jpg)](https://app.hackthebox.com/profile/1508972)
 ## Thank you(s)
-With thanks to both Mini-Ware, wervlad and JackTBB for parts
+With thanks to both wervlad and JackTBB for parts
 <!--Thanks Mini-Ware!-->
