@@ -33,6 +33,7 @@ rm -fr .git
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyBinoculars&theme=transparent" />
    </a> 
  </p> 
+
 ## Thank you(s)
 With thanks to both wervlad and JackTBB for parts
 <!--Thanks Mini-Ware!-->
