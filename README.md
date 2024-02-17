@@ -34,6 +34,8 @@ rm -fr .git
    </a> 
  </p> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmybinoculars&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+
 ## Thank you(s)
 With thanks to both wervlad and JackTBB for parts
 <!--Thanks Mini-Ware!-->
