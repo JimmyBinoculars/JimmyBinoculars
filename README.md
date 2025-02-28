@@ -1,7 +1,5 @@
 <h1 align="left">JimmyBinoculars</h1>
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ao4pehxo472i2bvs8ns5i81cv)
-
 ###
 
 # What I can do
@@ -58,3 +56,5 @@
 <img src="https://raw.githubusercontent.com/JimmyBinoculars/JimmyBinoculars/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ao4pehxo472i2bvs8ns5i81cv)
