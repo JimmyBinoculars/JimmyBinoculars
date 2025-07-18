@@ -60,6 +60,3 @@
 
 ## Buy Me A Coffee
 <a href="https://www.buymeacoffee.com/JimmyBinocuars"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=JimmyBinocuars&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-## Spotify
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ao4pehxo472i2bvs8ns5i81cv)
